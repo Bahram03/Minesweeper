@@ -10,9 +10,10 @@ ITP project - a simple minesweeper with c++
 - you can dawnload it from [here](https://github.com/SBU-CE/clui)
 ## Minesweeper features
 ### new game
-- easy (5*5)
-- normal (12*12)
-- hard (20*20)
+- Easy (5*5)
+- Normal (12*12)
+- Hard (20*20)
+- Custom
 ### save and load 
 - you can save the game in 4 sluts and load them
 ### Leaderboards
